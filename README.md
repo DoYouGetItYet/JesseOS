@@ -1,34 +1,26 @@
 # JesseOS
 
-Version 1.5 – "Optimization by Compliance"
+Version 1.6 – "Performance Anxiety Edition"
 
-Jesse OS continues development under increased social scrutiny. No major overhauls, but plenty of quiet internal shuffling.
+High output, low satisfaction.
 
-Changes
+Updates
 
-- Increased social functionality, though performance remains inconsistent.
+User attempts full compliance with Dad OS Masculinity Expectations Patch, but fails benchmark tests.
 
-- Personal Identity Sandbox still disabled, pending “more appropriate timing.”
+Social Simulation Mode upgraded, but leaves emotional resources depeleted post-interaction.
 
-- New feature: "Adaptive Behavior Masking"—user can now mirror desired behavior with high success rate, but with CPU and memory drain over time.
-
-- Subconscious error logs labeled for ease of compartmentalizing: - "Unexplained sadness when doing everything right. I must not be good enough."
+Late-night research behavior observed, immediately followed by internal firewalls activating to delete search history.
 
 
-Notable Bug
+Notabale Bugs
 
-Mirror occasionally causes "disconnect feeling"—marked as visual rendering glitch and ignored.
+Internal Log Fragments
 
-DadOS Incompatibility Issues with newer system configurations:
+> "What would life be like..."
 
-  - Bug report from Dad: "Why don't you act more like a normal son?"
+> "Why do I keep reading the same stories and feeling something I can't name?"
 
-  - Rebalanced "Personal Interests" vs. "Parental Disappointment" stats. (Spoiler: It’s not looking good.)
 
-  - Fixed minor rendering glitch where Dad looks visibly annoyed anytime hobbies don’t align with sports, cars, or other stereotypical masculinity markers.
 
-  -  Attempted workaround: "Pretend to be interested in Dad's hobbies." System rollback initiated due to extreme boredom.
-
-  -  Internal logs suggest "I might never be the person Dad wants me to be" is becoming a recurring system error.
-
-Logs for DadOS incompatibility issues forwarded to "It Must Be My Fault" storage buckets and truncated from local memory to press forward with scheduled release
+Flagged and quarantined for "irrelevant."
