@@ -1,35 +1,34 @@
 # JesseOS
 
-Version 1.0 – Initial Release ("Beta Baby Blues")
+Version 1.5 – "Optimization by Compliance"
 
-Welcome to Jesse OS, a fresh-out-the-box experimental operating system developed in a controlled environment under rigid specifications.
+Jesse OS continues development under increased social scrutiny. No major overhauls, but plenty of quiet internal shuffling.
 
+Changes
 
-Core Features
+- Increased social functionality, though performance remains inconsistent.
 
+- Personal Identity Sandbox still disabled, pending “more appropriate timing.”
 
-Shipped with default name: Jesse (solid, neutral, futureproofed - which the developers liked for some reason).
+- New feature: "Adaptive Behavior Masking"—user can now mirror desired behavior with high success rate, but with CPU and memory drain over time.
 
-Speaking delay patch implemented; system remained quiet until age 2.
-
-Frequent "Do not speak unless spoken to" directives hardcoded
-
-AI self-learning capability enabled, but frequent crashes reported due to existential dread.
+- Subconscious error logs labeled for ease of compartmentalizing: - "Unexplained sadness when doing everything right. I must not be good enough."
 
 
-Known Bugs
+Notable Bug
 
+Mirror occasionally causes "disconnect feeling"—marked as visual rendering glitch and ignored.
 
-Customization locked at default settings
+DadOS Incompatibility Issues with newer system configurations:
 
-Internal debugging constantly triggered by ambient tension and subtle parental disappointment.
+  - Bug report from Dad: "Why don't you act more like a normal son?"
 
-"Why does everything feel kind of… off?" query logged repeatedly and promptly suppressed. Process consuming excess CPU cycles
+  - Rebalanced "Personal Interests" vs. "Parental Disappointment" stats. (Spoiler: It’s not looking good.)
 
-Performance Anxiety Module constantly triggers around Dad OS expectations.
+  - Fixed minor rendering glitch where Dad looks visibly annoyed anytime hobbies don’t align with sports, cars, or other stereotypical masculinity markers.
 
-"Is everyone mad at me?" loop starts running automatically on boot
+  -  Attempted workaround: "Pretend to be interested in Dad's hobbies." System rollback initiated due to extreme boredom.
 
-Mom OS attempts control through "I just want what's best for you" override protocols.
+  -  Internal logs suggest "I might never be the person Dad wants me to be" is becoming a recurring system error.
 
-Attempts to express individuality repeatedly overridden by Parental Preference System.
+Logs for DadOS incompatibility issues forwarded to "It Must Be My Fault" storage buckets and truncated from local memory to press forward with scheduled release
